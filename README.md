@@ -1,0 +1,4 @@
+# MySQL_Sample
+
+CRUD処理の内READ処理のみを行ったsample
+ローカルのMysqlと接続し、あらかじめローカルのDB内にあるデータを表示するように実装
